@@ -2,7 +2,7 @@
 
 # Hello GitHub Actions
 
-_Create and run a GitHub Actions workflow._
+_✨Selma is creating and running a GitHub Actions workflow✨_
 
 </header>
 
